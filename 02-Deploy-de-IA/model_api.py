@@ -10,7 +10,7 @@
 # integração em outras aplicações de forma escalável e segura.
 
 from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
+from pantic import BaseModel
 import joblib
 import pandas as pd
 from typing import List
