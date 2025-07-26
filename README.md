@@ -33,5 +33,7 @@ Aqui estão algumas das soluções que desenvolvi. Cada pasta contém o código-
 
 Estou sempre em busca de desafios complexos para resolver. Se sua empresa enfrenta um gargalo de dados ou de IA, estou à disposição para discutir uma solução.
 
-* **LinkedIn:** [COLOQUE O LINK DO SEU PERFIL DO LINKEDIN AQUI]
-* **E-mail:** mestreygor1@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/
+ygor-santos-b92659252
+]
+* **E-mail:** santoygor1@gmail.com
